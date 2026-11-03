@@ -1,1 +1,7 @@
-# Investigaci-n-de-correos-electr-nicos-de-phishing
+# Investigacion de correos electrenicos de phishing
+Cuando se detecte o se reporte un correo electrónico de phishing, investigue analizando los encabezados en busca de indicadores de suplantación de identidad, inspeccionando las URL con la inteligencia sobre amenazas, verificando si algún usuario hizo clic o envió credenciales y correlacionando los registros SIEM con los de otros destinatarios. Si se enviaron credenciales o se ejecutó malware, escale el problema. Para contener la amenaza, restablezca las contraseñas y bloquee los dominios maliciosos.
+
+# Descripción general
+Las investigaciones de phishing son el tipo de alerta más común en cualquier SOC. Una empresa típica recibe cientos de intentos de phishing al día, y la diferencia entre un incidente contenido y una brecha de seguridad a menudo radica en la rapidez y exhaustividad con que un analista investiga la alerta inicial. Esta guía le acompaña a través del flujo de trabajo completo de la investigación, desde la clasificación inicial hasta la contención, abarcando el análisis de encabezados de correo electrónico, la verificación de la reputación de las URL, la evaluación del compromiso de credenciales y la detección de propagación lateral .
+
+Aprenderá a distinguir el phishing masivo de productos básicos del spearphishing dirigido, a identificar indicadores de compromiso que justifiquen la escalada de la situación y a documentar sus hallazgos para la transferencia de la respuesta a incidentes. Las técnicas de este manual son aplicables a las principales plataformas de seguridad de correo electrónico y herramientas SIEM.
