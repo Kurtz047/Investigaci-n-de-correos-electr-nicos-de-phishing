@@ -77,3 +77,5 @@ Registre todos los hallazgos de la investigación, incluyendo: origen de la aler
 - Ataques de spearphishing dirigidos contra ejecutivos o empleados con acceso privilegiado.
   
 - Campaña dirigida a múltiples usuarios simultáneamente, lo que sugiere un ataque coordinado.
+
+<img width="267" height="234" alt="Captura de pantalla 2026-11-04 123344" src="https://github.com/user-attachments/assets/34b881c2-b31c-47e1-8d7f-e8b776992a95" />
